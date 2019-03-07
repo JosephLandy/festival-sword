@@ -24,3 +24,5 @@ I intended to use a smaller controller and a smaller charging board, but inadver
 * 1.2 kOhm resistor
 * 10 kOhm resistor
 * Transparent polycarbonate tube
+
+![schematic](/festivalsword.png)
