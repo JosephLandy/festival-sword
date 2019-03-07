@@ -1,6 +1,6 @@
 # festival-sword
 
-This is a beautiful animated LED sword I made for Shambhala Music Festival in 2018. Shambhala is one of the most highly regarded electronic music festivals in Canada, often compared to Burning man. 
+This is a beautiful animated LED sword I made for Shambhala Music Festival in 2018. Shambhala is one of the most highly regarded electronic music festivals in Canada, often drawing comparisons to Burning Man. 
 
 A crossguard and a case for the electronic components were 3d printed and glued to a polycarbonate tube holding the LED strip.
 
